@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <style>
+      body
+       {
+        background-image: url('background.png');
+       }
+    </style>
+    <title>
+      Stream HTML 2 | Akate
+    </title>
+  </head>
+
+  <body>
+    <h1 align="center" style="color:White">Akate's Browser</h1>
+    
+    <p align="right" style="color:Lime">
+     <span style="font-family:Lucida Handwriting">This is the first line.</span>
+     <br><span style="font-family:Lucida Handwriting">This is the second line.</span>
+     <br><span style="font-family:Lucida Handwriting">This is the third line.</span>
+    </p>
+  </body>
+</html>
